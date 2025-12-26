@@ -53,16 +53,7 @@ Here are some of the cool apps I've built:
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asadbytes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadbytes&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph"  />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asadbytes&theme=tokyonight&hide_border=true" alt="streak graph" />
-</div>
+<img src="https://raw.githubusercontent.com/asadbytes/asadbytes/output/snake.svg" alt="Snake animation" />
 
 ---
 
