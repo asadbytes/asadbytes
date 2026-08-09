@@ -48,7 +48,7 @@ Here are some of the cool apps I've built:
 | **[Focus Timer](https://github.com/asadbytes/Focus-Timer)** | 🍅 A productive Pomodoro Timer app with cloud synchronization, task management, and detailed statistics. | `Flutter` `Firebase` `Hive` `GoRouter` |
 | **[App Freezer](https://github.com/asadbytes/App-Freezer)** | ❄️ A "Stealth Mode" utility to freeze/disable apps instantly without root (Device Owner). Boosts battery & focus. | `Kotlin` `Jetpack Compose` `Device Admin` |
 | **[Translator App](https://github.com/asadbytes/Translator-App)** | 🗣️ All-in-one translation tool: Audio, Image, Live Camera, and Text translation with conversation mode. | `Kotlin` `ML Kit` `CameraX` `Hilt` |
-| **[QR Code App](https://github.com/asadbytes/Code-App)** | 📷 Lightning-fast QR Reader and Generator. Scans Wi-Fi, Contacts, and URLs instantly. | `Kotlin` `Jetpack Compose` `ML Kit` |
+| **[QR Code App](https://play.google.com/store/apps/details?id=com.asadbyte.qrcodeapp)** | 📷 Lightning-fast QR Reader and Generator. Scans Wi-Fi, Contacts, and URLs instantly. | `Kotlin` `Jetpack Compose` `ML Kit` |
 | **[FastDL WebView](https://github.com/asadbytes/FastDL-WebView)** | 📥 A specialized Instagram Downloader utility wrapped in a lightweight WebView interface. | `Android` `WebView` `Java/Kotlin` |
 
 ---
